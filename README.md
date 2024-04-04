@@ -3,4 +3,3 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neto-lins-pcd-528aa050/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/setimus.lins/)
 
-![Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=jrlneto&show_icons=true&theme=radical)
